@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "CFO",
+    "company": "TechCorp",
+    "recent_news": "TechCorp announced a new partnership with CloudProvider"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@fintech.io",
+    "role": "CTO",
+    "company": "FinTech Inc",
+    "recent_news": "FinTech Inc launched a new mobile app"
+  },
+  {
+    "name": "Carol Davis",
+    "email": "carol.davis@retailco.com",
+    "role": "COO",
+    "company": "RetailCo",
+    "recent_news": "RetailCo expanded to 50 new stores"
+  }
+]
